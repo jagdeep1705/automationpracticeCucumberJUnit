@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.140892">
+<testcase classname="Login feature" name="AutomationPractice login test Scenerio" time="0.140892">
+<system-out><![CDATA[Given User is already on homepage...........................................passed
+When Title of homepage is My Store..........................................passed
+Then User clicks on Sign in.................................................passed
+When Title of the page is Login My Store....................................passed
+Then User enters username and password......................................passed
+And User clicks on Sign in button...........................................passed
+Then User is able to log in.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
